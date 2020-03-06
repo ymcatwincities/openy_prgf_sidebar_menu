@@ -1,0 +1,13 @@
+{
+    "name": "openy/openy_prgf_sidebar_menu",
+    "type": "drupal-module",
+    "description": "SideBar menu for referencing menu blocks and using in SideBars across different pages. by OpenY community",
+    "keywords": [
+    ],
+    "homepage": "https://github.com/ymcatwincities/openy_prgf_sidebar_menu",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://github.com/ymcatwincities/openy_prgf_sidebar_menu/issues",
+        "source": "https://github.com/ymcatwincities/openy_prgf_sidebar_menu.git"
+    }
+}
